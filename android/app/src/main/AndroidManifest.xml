@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="zodiac_guide_app"
+        android:label="Zodiac Guide App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
