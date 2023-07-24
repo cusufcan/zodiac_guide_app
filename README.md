@@ -1,5 +1,5 @@
 # Zodiac Guide App
-This project is the first one I will do among simple Flutter projects.
+This project is the first one of my new simple Flutter projects.
 
 ## Features
 - General characteristics of all Zodiac signs
