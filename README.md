@@ -13,7 +13,7 @@ Screenshot                 | Screenshot                 | Screenshot
 ### Installing
 
 Here is the apk file for download.
-* [APK FILE DOWNLOAD](https://github.com/cusufcan/zodiac_guide_app/blob/main/assets/build/app-release.apk "download")
+* [APK FILE DOWNLOAD](assets/build/app-release.apk)
 
 ### Local Installing
 * Just clone the repo.
