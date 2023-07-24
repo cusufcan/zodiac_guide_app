@@ -11,9 +11,7 @@ Screenshot                 | Screenshot                 | Screenshot
 ![ss1](assets/screenshots/ss1.png) | ![ss2](assets/screenshots/ss2.png) | ![ss3](assets/screenshots/ss3.png)
 
 ### Installing
-
-Here is the apk file for download.
-* [APK FILE DOWNLOAD](assets/build/app-release.apk)
+* Check releases.
 
 ### Local Installing
 * Just clone the repo.
