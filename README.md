@@ -1,16 +1,25 @@
-# zodiac_guide_app
+# Zodiac Guide App
+APP İLE İLGİLİ PARAGRAF YAZILACAK
 
-A new Flutter project.
+## Features
+- General characteristics of all Zodiac signs
+- AppBar that changes color based on the zodiac sign's image
 
-## Getting Started
+## Ekran Görüntüleri
+Screenshot                 | Screenshot                 | Screenshot
+:-------------------------:|:-------------------------: | :-------------------------:
+![ss1](assets/screenshots/ss1.png) | ![ss2](assets/screenshots/ss2.png) | ![ss3](assets/screenshots/ss3.png)
 
-This project is a starting point for a Flutter application.
+### Installing
 
-A few resources to get you started if this is your first Flutter project:
+Here is the apk file for download.
+* [APK FILE DOWNLOAD](assets/build/app-release.apk)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Local Installing
+* Just clone the repo.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Built With
+* [Flutter](https://flutter.dev/) - Flutter
+
+## Authors
+* [**Yusuf Can Mercan**](https://github.com/cusufcan)

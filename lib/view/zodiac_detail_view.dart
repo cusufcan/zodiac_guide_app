@@ -17,7 +17,7 @@ class _ZodiacDetailViewState extends State<ZodiacDetailView> {
   @override
   void initState() {
     super.initState();
-    initPaletteGenerator();
+    WidgetsBinding.instance.addPostFrameCallback((_) => initPaletteGenerator());
   }
 
   Future<void> initPaletteGenerator() async {
