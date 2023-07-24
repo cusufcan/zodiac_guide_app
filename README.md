@@ -11,7 +11,7 @@ Screenshot                 | Screenshot                 | Screenshot
 ![ss1](assets/screenshots/ss1.png) | ![ss2](assets/screenshots/ss2.png) | ![ss3](assets/screenshots/ss3.png)
 
 ### Installing
-* Check releases.
+* [RELEASES](https://github.com/cusufcan/zodiac_guide_app/releases)
 
 ### Local Installing
 * Just clone the repo.
